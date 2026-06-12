@@ -6,7 +6,7 @@ Frontend Developer focused on React, Next.js, and TypeScript.
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,django,postgres,git)](https://skillicons.dev)
 
->Additional Experience
+## Additional Experience
 
 [![My Skills](https://skillicons.dev/icons?i=php,mysql,vue)](https://skillicons.dev)
 

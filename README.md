@@ -1,4 +1,5 @@
 > About ME
+
 Hi I am Nikoloz
 Frontend Developer focused on React, Next.js, and TypeScript.
 

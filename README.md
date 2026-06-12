@@ -1,11 +1,11 @@
-# Hi, I'm Nika 👋
+Nikoloz Vashakidze
 
 Frontend Developer focused on React, Next.js, and TypeScript.
 
-## Tech Stack
+> Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,django,postgres,git)](https://skillicons.dev)
 
-## Current Project
+> Current Project
 
-🎬 VASH.4K - Movie recommendation platform built with Next.js and Django REST API.
+Movie recommendation website built with Next.js and Django REST API.
